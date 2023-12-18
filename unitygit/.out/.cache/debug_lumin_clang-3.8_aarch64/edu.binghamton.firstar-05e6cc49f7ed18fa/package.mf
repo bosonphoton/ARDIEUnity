@@ -1,0 +1,339 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "72c684d0f4366fb9943d81b1c82865d0373e9e9e",
+   "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
+   "size": 6610876,
+   "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "102e1a63cd3155cb17a692ab198603d7d885d8ef",
+   "pkgpath": "bin/libil2cpp.so",
+   "size": 101099576,
+   "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/Native/libil2cpp.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\craft\\Downloads\\eyetracking.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "cdf7c2eac953dc9276430c5d039e896421c7c7d3",
+   "xfrm_path": "C:/Users/craft/Documents/Unity Projects/FirstAR/.out/.cache/debug_lumin_clang-3.8_aarch64/edu.binghamton.firstar-05e6cc49f7ed18fa\\libil2cpp.so-b1722532b29d4e67",
+   "xfrm_size": 101100334
+  },
+  {
+   "compression": 8,
+   "hash": "fa2b8ff146caf64688e7aa835af0034ca81b5505",
+   "pkgpath": "bin/AudioPluginMSASpatializer.so",
+   "size": 282448,
+   "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\craft\\Downloads\\eyetracking.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "9c7e5215b443607af6f872ffba9303e93ab997f5",
+   "xfrm_path": "C:/Users/craft/Documents/Unity Projects/FirstAR/.out/.cache/debug_lumin_clang-3.8_aarch64/edu.binghamton.firstar-05e6cc49f7ed18fa\\AudioPluginMSASpatializer.so-95d198d4b4cabb29",
+   "xfrm_size": 283206
+  },
+  {
+   "compression": 8,
+   "hash": "581060ca633f28457f2468a50665820dba3b35e4",
+   "pkgpath": "bin/LuminMediaPlayer.dll",
+   "size": 68096,
+   "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/Plugins/LuminMediaPlayer.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "7be5832e9b39b972852cda22d9299093f60d1607",
+   "pkgpath": "bin/LuminUnity.dll",
+   "size": 329216,
+   "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/Plugins/LuminUnity.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "b8ce049d2e85f27cc7346d7551d1853b20e78461",
+   "pkgpath": "bin/MSA.Runtime.dll",
+   "size": 22016,
+   "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/Plugins/MSA.Runtime.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "dbc37e51797c64708aa489aa7b543ca0290996c3",
+   "pkgpath": "bin/MessageGeneration.dll",
+   "size": 31232,
+   "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/Plugins/MessageGeneration.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "df3993553f7ca173fa169c1fed675684c66f2d63",
+   "pkgpath": "bin/Newtonsoft.Json.Bson.dll",
+   "size": 97720,
+   "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/Plugins/Newtonsoft.Json.Bson.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "a9e7302d7586ae70fd7ba4ab21c1cf3460dfd481",
+   "pkgpath": "bin/Newtonsoft.Json.dll",
+   "size": 675240,
+   "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/Plugins/Newtonsoft.Json.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "3d3fa1d1fbdd07c2db80caa730c8981592d8ee74",
+   "pkgpath": "bin/RosBridgeClient.dll",
+   "size": 83456,
+   "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/Plugins/RosBridgeClient.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "a71acc50817a0929bccc93cbe7619d57d25d1b17",
+   "pkgpath": "bin/UnityMagicLeap.so",
+   "size": 3077192,
+   "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\craft\\Downloads\\eyetracking.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "c8715b9317b3b16bcfb0e8cbffef2ace0f9af56a",
+   "xfrm_path": "C:/Users/craft/Documents/Unity Projects/FirstAR/.out/.cache/debug_lumin_clang-3.8_aarch64/edu.binghamton.firstar-05e6cc49f7ed18fa\\UnityMagicLeap.so-95d198d4b4cabb29",
+   "xfrm_size": 3077950
+  },
+  {
+   "compression": 8,
+   "hash": "427a512c9530b0ec232d717e53e8233c08cd42e2",
+   "pkgpath": "bin/Urdf.dll",
+   "size": 20992,
+   "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/Plugins/Urdf.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "fbfa4a6aa20b14e0f60550676e5d34bebb99d46d",
+   "pkgpath": "bin/libml_camera_plugin.so",
+   "size": 14184,
+   "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\craft\\Downloads\\eyetracking.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "7d4e8b72cbae49c6c8a5ff7f9853b53564a1c695",
+   "xfrm_path": "C:/Users/craft/Documents/Unity Projects/FirstAR/.out/.cache/debug_lumin_clang-3.8_aarch64/edu.binghamton.firstar-05e6cc49f7ed18fa\\libml_camera_plugin.so-95d198d4b4cabb29",
+   "xfrm_size": 14942
+  },
+  {
+   "compression": 8,
+   "hash": "88ac1047e0ac5686d703471c3115f719ca66a4e8",
+   "pkgpath": "bin/libml_mediaplayer_plugin.so",
+   "size": 67624,
+   "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\craft\\Downloads\\eyetracking.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "297f56574b36e43928d3b442cc2362c6764672c5",
+   "xfrm_path": "C:/Users/craft/Documents/Unity Projects/FirstAR/.out/.cache/debug_lumin_clang-3.8_aarch64/edu.binghamton.firstar-05e6cc49f7ed18fa\\libml_mediaplayer_plugin.so-95d198d4b4cabb29",
+   "xfrm_size": 68382
+  },
+  {
+   "compression": 8,
+   "hash": "984e4d2049ed5491b970ba15d1e8c8cadac0896e",
+   "pkgpath": "bin/nunit.framework.dll",
+   "size": 339968,
+   "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "2b3a862c1908baa90d119b4ceef4b13715fdbb1d",
+   "pkgpath": "bin/websocket-sharp.dll",
+   "size": 250368,
+   "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/Plugins/websocket-sharp.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "341d91a7e7c795c063f0c8f5b8b33acc17e5d20a",
+   "pkgpath": "Data/Resources/System.Data.dll-resources.dat",
+   "size": 93718,
+   "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/Resources/System.Data.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "e6124da6073b916e29e013cf3ae3f58a4c5fdb0e",
+   "pkgpath": "Data/Resources/mscorlib.dll-resources.dat",
+   "size": 337563,
+   "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/Resources/mscorlib.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "fa10859a933989c5961257c02d9f4fcf042044f1",
+   "pkgpath": "Data/Resources/unity default resources",
+   "size": 3689324,
+   "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/Resources/unity default resources"
+  },
+  {
+   "compression": 8,
+   "hash": "20234f006e372174b60bec923be62d511231f8f2",
+   "pkgpath": "Data/Resources/unity_builtin_extra",
+   "size": 942768,
+   "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/Resources/unity_builtin_extra"
+  },
+  {
+   "compression": 8,
+   "hash": "778891100a8030ad6096db64784c6e5d67c28378",
+   "pkgpath": "Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json",
+   "size": 417,
+   "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json"
+  },
+  {
+   "compression": 8,
+   "hash": "22db518521bcfdf41058a72d22771ddbbdc94292",
+   "pkgpath": "Data/boot.config",
+   "size": 248,
+   "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/boot.config"
+  },
+  {
+   "compression": 8,
+   "hash": "7af88cd6dc1ac5ca215dd91fac41c261e5db9cb9",
+   "pkgpath": "Data/globalgamemanagers",
+   "size": 62104,
+   "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/globalgamemanagers"
+  },
+  {
+   "compression": 8,
+   "hash": "93fe8a5e9b43f9b3b4b727eae180c7cbfed2bf81",
+   "pkgpath": "Data/globalgamemanagers.assets",
+   "size": 90068,
+   "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/globalgamemanagers.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "06d9cc7ef36a445b36121f4f9fced1e6bb954752",
+   "pkgpath": "Data/level0",
+   "size": 14092,
+   "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/level0"
+  },
+  {
+   "compression": 8,
+   "hash": "38f48e3fcc9c23d5579cce72e703c67ed614cd4e",
+   "pkgpath": "Data/resources.assets",
+   "size": 553160,
+   "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/resources.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "1d5e5447a0f0b085b695376c9fdb7738e07e4f23",
+   "pkgpath": "Data/resources.assets.resS",
+   "size": 360480,
+   "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/resources.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "6cdc0e4cbe1201c4ca6f1a16e833814ac2bbc3a8",
+   "pkgpath": "Data/resources.resource",
+   "size": 5875136,
+   "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/resources.resource"
+  },
+  {
+   "compression": 8,
+   "hash": "ccfb3d4f3e12a27d7424d1a08e910bcdd363a4b3",
+   "pkgpath": "Data/sharedassets0.assets",
+   "size": 4033428,
+   "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/sharedassets0.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "6456ed4a8b0b7e57e7b8fb2523d8f2af4d9a8209",
+   "pkgpath": "bin/Player.elf",
+   "size": 49542640,
+   "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Player.elf",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\craft\\Downloads\\eyetracking.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "8c6531e2553d7ce9b73bca72f88173df6d65820f",
+   "xfrm_path": "C:/Users/craft/Documents/Unity Projects/FirstAR/.out/.cache/debug_lumin_clang-3.8_aarch64/edu.binghamton.firstar-05e6cc49f7ed18fa\\Player.elf-ab0248396f80213a",
+   "xfrm_size": 49543398
+  },
+  {
+   "compression": 8,
+   "hash": "5925de9f4d7b83c65d1fd7b25ced5f0bf8c27e73",
+   "pkgpath": "bin/libc++_shared.so",
+   "size": 976832,
+   "src": "C:/Users/craft/MagicLeap/mlsdk/v0.22.0/lumin/stl/libc++/lib/libc++_shared.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\craft\\Downloads\\eyetracking.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "9252fc69f0a21a746331d1c9323d7189cb641d70",
+   "xfrm_path": "C:/Users/craft/Documents/Unity Projects/FirstAR/.out/.cache/debug_lumin_clang-3.8_aarch64/edu.binghamton.firstar-05e6cc49f7ed18fa\\libc++_shared.so-a54c62be7b885ee9",
+   "xfrm_size": 977590
+  },
+  {
+   "compression": 8,
+   "hash": "e82646b79a3988d1cab5c2686538659f8b89db44",
+   "pkgpath": "manifest.xml",
+   "size": 1932,
+   "src": "C:\\Users\\craft\\Documents\\Unity Projects\\FirstAR\\Temp\\StagingArea\\manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "98fe5b2b36c212a5f39cd1b89d6bb23597151b21",
+     "developer_id": "20040b17-43f0-4a52-81ef-143af83a52f9"
+    }
+   },
+   "xfrm_hash": "574af2bdf83c9c0fb300ea484ee577d7a8159f15",
+   "xfrm_path": "C:/Users/craft/Documents/Unity Projects/FirstAR/.out/.cache/debug_lumin_clang-3.8_aarch64/edu.binghamton.firstar-05e6cc49f7ed18fa\\manifest.xml-ab0248396f80213a",
+   "xfrm_size": 1944
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "C:\\Users\\craft\\Downloads\\eyetracking.cert"
+  },
+  "taildata": {
+   "debuggable": true,
+   "devcert": "C:\\Users\\craft\\Downloads\\eyetracking.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}

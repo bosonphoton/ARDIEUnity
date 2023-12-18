@@ -1,0 +1,70 @@
+[
+ {
+  "dest": "bin/libil2cpp.so",
+  "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/Native/libil2cpp.so"
+ },
+ {
+  "dest": "bin/AudioPluginMSASpatializer.so",
+  "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.so"
+ },
+ {
+  "dest": "bin/LuminMediaPlayer.dll",
+  "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/Plugins/LuminMediaPlayer.dll"
+ },
+ {
+  "dest": "bin/LuminUnity.dll",
+  "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/Plugins/LuminUnity.dll"
+ },
+ {
+  "dest": "bin/MSA.Runtime.dll",
+  "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/Plugins/MSA.Runtime.dll"
+ },
+ {
+  "dest": "bin/MessageGeneration.dll",
+  "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/Plugins/MessageGeneration.dll"
+ },
+ {
+  "dest": "bin/Newtonsoft.Json.Bson.dll",
+  "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/Plugins/Newtonsoft.Json.Bson.dll"
+ },
+ {
+  "dest": "bin/Newtonsoft.Json.dll",
+  "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/Plugins/Newtonsoft.Json.dll"
+ },
+ {
+  "dest": "bin/RosBridgeClient.dll",
+  "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/Plugins/RosBridgeClient.dll"
+ },
+ {
+  "dest": "bin/UnityMagicLeap.so",
+  "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so"
+ },
+ {
+  "dest": "bin/Urdf.dll",
+  "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/Plugins/Urdf.dll"
+ },
+ {
+  "dest": "bin/libml_camera_plugin.so",
+  "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so"
+ },
+ {
+  "dest": "bin/libml_mediaplayer_plugin.so",
+  "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so"
+ },
+ {
+  "dest": "bin/nunit.framework.dll",
+  "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+ },
+ {
+  "dest": "bin/websocket-sharp.dll",
+  "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Data/Plugins/websocket-sharp.dll"
+ },
+ {
+  "dest": "bin/Player.elf",
+  "src": "C:/Users/craft/Documents/Unity Projects/FirstAR/Temp/StagingArea/Player.elf"
+ },
+ {
+  "dest": "bin/libc++_shared.so",
+  "src": "C:/Users/craft/MagicLeap/mlsdk/v0.22.0/lumin/stl/libc++/lib/libc++_shared.so"
+ }
+]

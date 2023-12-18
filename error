@@ -1,0 +1,13 @@
+Control UR5e
+------------------------------
+[ INFO] [1694456633.145987628]: Loading robot model 'ur5e_robot'...
+[ WARN] [1694456633.223700118]: Kinematics solver doesn't support #attempts anymore, but only a timeout.
+Please remove the parameter '/robot_description_kinematics/manipulator/kinematics_solver_attempts' from your configuration.
+Traceback (most recent call last):
+  File "/home/chels/catkin_ws/src/ur5_yan/scripts/pomdp/ur5_red1.py", line 37, in <module>
+    demo = MoveGroupInteface()
+  File "/home/chels/catkin_ws/src/ur5_yan/scripts/pomdp/utils.py", line 59, in __init__
+    self.move_group_commander = moveit_commander.MoveGroupCommander(group_name)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/moveit_commander/move_group.py", line 66, in __init__
+    name, robot_description, ns, wait_for_servers
+RuntimeError: Unable to connect to move_group action server 'move_group' within allotted time (5s)
